@@ -19,6 +19,7 @@ func KnownBuildTags() map[string]string {
 		"csvq":          "csvq",          // github.com/mithrandie/csvq-driver
 		"exasol":        "exasol",        // github.com/exasol/exasol-driver-go
 		"firebird":      "firebirdsql",   // github.com/nakagami/firebirdsql
+		"flinksql":      "flinksql",      // github.com/streamnative/streamnative-sql-go/flinksql
 		"genji":         "genji",         // github.com/genjidb/genji/driver
 		"godror":        "godror",        // github.com/godror/godror
 		"h2":            "h2",            // github.com/jmrobles/h2go

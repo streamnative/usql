@@ -1,0 +1,8 @@
+[submodule "dburl"]
+	path = dburl
+	url = https://github.com/streamnative/dburl.git
+	branch = flinksql
+[submodule "streamnative-sql-go"]
+	path = streamnative-sql-go
+	url = https://github.com/streamnative/streamnative-sql-go.git
+	branch = master
